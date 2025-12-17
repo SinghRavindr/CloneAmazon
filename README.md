@@ -30,4 +30,5 @@ and understand how real-world websites are structured and styled.
 <hr>
 
 
+<img width="1910" height="947" alt="image" src="https://github.com/user-attachments/assets/62e6a9cf-05dc-4f35-833e-e6b57b666bd1" />
 
