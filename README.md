@@ -31,4 +31,9 @@ and understand how real-world websites are structured and styled.
 
 
 <img width="1910" height="947" alt="image" src="https://github.com/user-attachments/assets/62e6a9cf-05dc-4f35-833e-e6b57b666bd1" />
+<br>
+<br>
+
+<img width="1917" height="954" alt="image" src="https://github.com/user-attachments/assets/62f5a634-4df9-4f42-875f-8e774ef6a131" />
+
 
